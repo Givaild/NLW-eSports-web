@@ -46,8 +46,7 @@ function App() {
               title={game.title}
               adsCount={game._count.ads}
             />
-            // <GameBanner bannerURL='/game1.png' title='teste' adsCount={1}/>
-          );
+           );
         })}
       </div>
       <Dialog.Root>
